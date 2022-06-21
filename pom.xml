@@ -23,7 +23,7 @@
 		<java.version>1.8</java.version>
 		<mybatis.spring.version>1.3.2</mybatis.spring.version>
 		<pagehelper.spring.version>1.2.5</pagehelper.spring.version>
-		<mysql.version>5.1.44</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 		<lombok.version>1.16.18</lombok.version>
 		<druid.version>1.1.17</druid.version>
 		<fastjson.version>1.2.40</fastjson.version>
